@@ -33,6 +33,6 @@ You can find the tutorial [here](https://www.digitalocean.com/community/tutorial
 - [Flask](https://flask.palletsprojects.com/en/1.1.x/)
 
   Deploy
-- [Heroku](www.heroku.com)
+- [Heroku](https://www.heroku.com/)
 
 © [Reynaldo Armenta ](https://github.com/Reprak11)
