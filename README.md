@@ -25,15 +25,15 @@ You can find the tutorial [here](https://www.digitalocean.com/community/tutorial
 
 ## Built with 
   
-  ### Front-end
+### Front-end
 - [HTML](https://www.w3schools.com/html/) 
 - [Bulma](https://bulma.io/)
 
-  ### Back-end
+### Back-end
 - [Python](https://www.python.org/)
 - [Flask](https://flask.palletsprojects.com/en/1.1.x/)
 
-  ### Deploy
+### Deploy
 - [Heroku](https://www.heroku.com/)
 
 © [Reynaldo Armenta ](https://github.com/Reprak11)
