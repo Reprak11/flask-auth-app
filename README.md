@@ -24,6 +24,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 You can find the tutorial [here](https://www.digitalocean.com/community/tutorials/how-to-add-authentication-to-your-app-with-flask-login)
 
 ## Built with 
+  
   ### Front-end
 - [HTML](https://www.w3schools.com/html/) 
 - [Bulma](https://bulma.io/)
