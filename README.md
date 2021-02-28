@@ -4,7 +4,7 @@
 <tr>
 <td>
   Login with authentication app example done with Flask. This app contains Home, Profile, Login, Sign in and Logout views and funtionality.
-  Base in the tutorial of [Anthony Herbert](https://www.digitalocean.com/community/tutorials/how-to-add-authentication-to-your-app-with-flask-login)
+  Base in the [tutorial](https://www.digitalocean.com/community/tutorials/how-to-add-authentication-to-your-app-with-flask-login) of Anthony Herbert
 </td>
 </tr>
 </table>
